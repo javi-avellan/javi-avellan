@@ -1,12 +1,10 @@
 - 👋 Hi everyone, I’m Javier Avellan
-- 👀 I’m interested in Unreal Engine or Unity
-- 🌱 I’m currently learning Python and MongoDB
-- 💞️ I’m looking to collaborate on Python or Java Projects
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning Linux, Docker and Kubernetes
+- 💞️ I’m looking to collaborate on automatic deplyoments 
 - 📫 How to reach me: Send me a message to javieravellan867@gmail.com
 - 😄 Pronouns: He
-- ⚡ Fun fact: I started programming because always wanted to create a videogame but now dont play videogames, just coding
-
-<!---
-javi-avellan/javi-avellan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- ⚡ Fun fact: I started programming because always wanted to create a videogame but now that i know coding i bored with videogames :(
+- ⚡Check my progress in ![roadmap.sh](https://roadmap.sh)
+  
+[![roadmap.sh](https://roadmap.sh/card/wide/68e55c931d72874d10f5b7ea?variant=dark)](https://roadmap.sh)
